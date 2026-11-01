@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nodes
+comment2.target=void\ testModels(int[])
+comment3.params=nodes
+comment3.target=void\ testModel(int)
+comment4.params=testN\ testInputs\ testAns\ nn
+comment4.target=int\ test(int,\ double[][],\ double[][],\ NeuralNetwork)
+comment5.params=nums
+comment5.target=int\ getMax(double[])
+comment6.params=inputs\ nn
+comment6.target=void\ printCalc(double[],\ NeuralNetwork)
+comment7.params=correct\ total
+comment7.target=double\ getAcc(double,\ double)
+numComments=8
