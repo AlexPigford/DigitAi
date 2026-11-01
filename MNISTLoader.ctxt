@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MNISTLoader
+comment1.params=
+comment1.target=MNISTLoader()
+comment2.params=
+comment2.target=double[]\ getTrain()
+comment3.params=
+comment3.target=double[]\ getTest()
+numComments=4

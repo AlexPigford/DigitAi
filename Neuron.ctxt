@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Neuron
+comment1.params=Nw
+comment1.target=Neuron(int)
+comment10.params=nums
+comment10.target=double\ calculate(double[])
+comment11.params=range
+comment11.target=void\ setWR(double)
+comment2.params=Nw\ bias
+comment2.target=Neuron(int,\ double)
+comment3.params=
+comment3.target=void\ setW()
+comment4.params=
+comment4.target=int\ getNW()
+comment5.params=newWeights
+comment5.target=void\ setW(double[])
+comment6.params=i\ d
+comment6.target=void\ changeW(int,\ double)
+comment7.params=i
+comment7.target=double\ getW(int)
+comment8.params=
+comment8.target=double\ getB()
+comment9.params=d
+comment9.target=void\ changeB(double)
+numComments=12
